@@ -85,11 +85,11 @@
       src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"
       alt="postman" width="40" height="40" /> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="[https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8](https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png)"
-      alt="postman" width="40" height="40" /> </a>
+      src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"
+      alt="MySQL" width="40" height="40" /> </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-      alt="postman" width="40" height="40" /> </a>
+      alt="postgresSQL" width="40" height="40" /> </a>
      </p>
 
 <br>
