@@ -16,19 +16,21 @@
 
 - ⚡ Fun fact :- Football⚽ is the reason to live.
 
+- 🌐 Checkout my portfolio website <a href="https://fenilrami.vercel.app/" target="_blank">here</a>.
+
 <br>
 
 <h3 align="left">You can find me here👇</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/fenil-rami-6a7803204/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="fenil rami" height="30" width="40" /></a>
+      alt="fenil rami" height="30" width="40" target="_blank"/></a>
   <a href="https://twitter.com/fenil3357" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="fenil3357" height="30" width="40" /></a>
+      alt="fenil3357" height="30" width="40" target="_blank"/></a>
        <a href="https://www.instagram.com/fenil3357/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="fenil3357" height="30" width="40" /></a>
+      alt="fenil3357" height="30" width="40" target="_blank"/></a>
   
 </p>
 
@@ -38,13 +40,13 @@
   
   <a href="https://leetcode.com/fenil3357/" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-      alt="fenil3357" height="30" width="40" /></a>
+      alt="fenil3357" height="30" width="40" target="_blank"/></a>
   <a href="https://www.codechef.com/users/fenil3357" target="blank"><img align="center"
-      src="https://github.com/pritmanvar/pritmanvar/raw/main/platforms/codechef.png?raw=true"
-      alt="fenil3357" height="30" width="40" /></a>
+      src="https://avatars.githubusercontent.com/u/11960354?v=4"
+      alt="fenil3357" height="30" width="40" target="_blank"/></a>
   <a href="https://codeforces.com/profile/fenil3357" target="blank"><img align="center"
-      src="https://github.com/pritmanvar/pritmanvar/raw/main/platforms/codeforces.png?raw=true"
-      alt="fenil3357" height="30" width="40" /></a>
+      src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png?f=webp"
+      alt="fenil3357" height="30" width="40" target="_blank"/></a>
   
 </p>
 
@@ -53,7 +55,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
  <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+    rel="noreferrer" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> 
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -64,7 +66,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667"
+    rel="noreferrer" target="_blank"> <img src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667"
       alt="javascript" width="40" height="40" /> </a> 
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
