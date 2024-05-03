@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- ✨ I’m currently working on Web Development with NodeJS and ReactJS
+- ✨ I’m currently working on Web Development with Node.js, React.js, Nest.js, AWS
 
 - 👨‍💻 Solving DSA Problems on various online platforms
 
@@ -98,6 +98,14 @@
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
       alt="postgresSQL" width="40" height="40" /> </a>
+
+  <a href="https://www.nestjs.com" target="_blank" rel="noreferrer"> <img
+      src="https://nestjs.com/img/logo-small.svg"
+      alt="Nest.js" width="40" height="40" /> </a>
+
+   <a href="https://www.aws.amazon.com" target="_blank" rel="noreferrer"> <img
+      src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY"
+      alt="AWS" width="40" height="40" /> </a>
      </p>
 
 <br>
