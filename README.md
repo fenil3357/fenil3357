@@ -66,10 +66,10 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer" target="_blank"> <img src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667"
+    rel="noreferrer" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
       alt="javascript" width="40" height="40" /> </a> 
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
       alt="bootstrap" width="40" height="40" /> 
 </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -81,7 +81,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb" width="40" height="40" /> </a> 
       <a href="http://expressjs.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
       alt="expressJS" width="40" height="40" /> </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
@@ -98,16 +98,13 @@
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
       alt="postgresSQL" width="40" height="40" /> </a>
-
-  <a href="https://www.nestjs.com" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.nestjs.com" target="_blank" rel="noreferrer"> <img
       src="https://nestjs.com/img/logo-small.svg"
       alt="Nest.js" width="40" height="40" /> </a>
-
    <a href="https://www.aws.amazon.com" target="_blank" rel="noreferrer"> <img
       src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY"
       alt="AWS" width="40" height="40" /> </a>
-     </p>
-
+     </p> 
 <br>
 
 <h3>Statistical Data :-</h3>
