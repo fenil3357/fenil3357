@@ -66,7 +66,7 @@
 <h3 align="left">Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nest,react,bootstrap,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nest,react,apollo,bootstrap,tailwindcss" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@
 <h3 align="left">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,ubuntu,docker,git,github,postman,npm,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,graphql,firebase,ubuntu,docker,git,github,postman,npm,vscode" />
   </a>
 </p>
 
