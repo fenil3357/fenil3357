@@ -70,17 +70,17 @@
   </a>
 </p>
 
-<h3 align="left">Databases</h3>
+<h3 align="left">Databases and ORMs</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,mysql,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=mongo,mysql,postgresql,redis,elasticsearch,sequelize,prisma" />
   </a>
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Other Tools & Techs</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,graphql,firebase,ubuntu,docker,git,github,postman,npm,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,graphql,firebase,ubuntu,docker,git,github,postman,npm,vscode,kafka" />
   </a>
 </p>
 
