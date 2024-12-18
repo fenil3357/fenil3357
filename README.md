@@ -7,7 +7,7 @@
 
  <!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
 
-<p width="500" height="500"><img align="right" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding-gif" /></p>
+<p><img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9meng5NmxkdmFnaXczcngwamJ6d3huOHl2eWNiZTRjeHZvZWFvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.webp" alt="coding-gif" /></p>
 
 
 
