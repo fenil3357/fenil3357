@@ -11,13 +11,13 @@
 
 
 
-- ✨ I’m currently working on Web Development with Node.js, React.js, Nest.js, AWS
+- ✨ Currently Working On: Web Development with Node.js, React.js, Nest.js, and AWS.
 
-- 👨‍💻 Solving DSA Problems on various online platforms
+- 👨‍💻 Passionate Problem Solver: Tackling DSA challenges on various online platforms.
 
-- 📫 How to reach me **fenil3357@gmail.com**
+- 📫 Get in Touch: Feel free to reach out at **fenil3357@gmail.com**
 
-- ⚡ Fun fact :- Football⚽ is the reason to live.
+- ⚡ Beyond Work: I’m passionate about football and cricket.
 
 - 🌐 Checkout my portfolio website <a href="https://fenilrami.vercel.app/" target="_blank">here</a>.
 
