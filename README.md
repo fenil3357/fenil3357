@@ -93,7 +93,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI02Ppyy9NXWEvF0QTeXH6w3p9-VC0AbtNXg&s" length=50 height=50/>
 </p>
 
-<h3>Statistical Data :-</h3>
+<!-- <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fenil3357&show_icons=true&locale=en&layout=compact"
     alt="adam-pw" /></p>
@@ -110,4 +110,4 @@
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=fenil3357" alt="fenil3357" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=fenil3357" alt="fenil3357" /></a> </p> -->
