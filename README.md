@@ -87,6 +87,12 @@
   </a>
 </p>
 
+<h3 align="left">Payment Gateway Integrations</h3>
+<p align="center">
+    <img src="https://logos-world.net/wp-content/uploads/2022/12/Stripe-Emblem.png" length=50 height=50/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI02Ppyy9NXWEvF0QTeXH6w3p9-VC0AbtNXg&s" length=50 height=50/>
+</p>
+
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fenil3357&show_icons=true&locale=en&layout=compact"
